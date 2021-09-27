@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ole</h1>
-<h3 align="center">A passionate java programmer from Germany</h3>
+<h3 align="center">Beginner Java programmer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=steinmannole&label=Profile%20views&color=0e75b6&style=flat-square" alt="steinmannole" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=steinmannole&label=Profile%20views&color=0e75b6&style=flat-square" alt="steinmannole" /> </p>
 
 - 🌱 I’m currently learning **Java Basics**
 
