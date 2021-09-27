@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://www.java.com" rel="nofollow">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" alt="java" style="max-width: 100%;" width="40" height="40">
+    </a>
+
 <!--
 **steinmannole/steinmannole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
