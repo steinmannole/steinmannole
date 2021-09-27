@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steinmannole&label=Profile%20views&color=0e75b6&style=flat-square" alt="steinmannole" /> </p>
 
-- 🔭 I’m currently working on [ole-tictactoe](https://github.com/steinmannole/ole-tictactoe)
-
 - 🌱 I’m currently learning **Java Basics**
+
+- 🔭 Working on [ole-tictactoe](https://github.com/steinmannole/ole-tictactoe)
 
 - 📫 How to reach me [Mail](ole.steinmann@msg-david.de)
 
