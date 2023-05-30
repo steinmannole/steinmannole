@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ole</h1>
-<h3 align="center">Beginner JavaScript programmer from Germany</h3>
+<h3 align="center">Beginner Java programmer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steinmannole&label=Profile%20views&color=004080&style=flat" alt="steinmannole" /> </p>
 
