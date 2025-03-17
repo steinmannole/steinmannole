@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steinmannole&label=Profile%20views&color=004080&style=flat" alt="steinmannole" /> </p>
 
-- 🔭 I’m currently working on [ChetChet](https://github.com/steinmannole/ChetChet)
+- 🔭 I’m currently working on [X](google.de)
 
-- 🌱 I’m currently learning **JavaScript, React**
+- 🌱 I’m currently learning **Script**
 
 - 👨‍💻 All of my projects are available at [https://github.com/steinmannole?tab=repositories](https://github.com/steinmannole?tab=repositories)
 
-- 📫 How to reach me **steinmann-ole@web.de**
+- 📫 How to reach me **ole(at)ostma.dev**
 
 <p align="left">
 </p>
