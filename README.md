@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ole</h1>
-<h3 align="center">Beginner Java programmer from Germany</h3>
+<h3 align="center">Beginner programmer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steinmannole&label=Profile%20views&color=004080&style=flat" alt="steinmannole" /> </p>
 
-- 🔭 I’m currently working on [X](google.de)
+- 🔭 My last Project was [ole-yt-dlp-web]([google.de](https://github.com/steinmannole/ole-yt-dlp-web))
 
-- 🌱 I’m currently learning **Script**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/steinmannole?tab=repositories](https://github.com/steinmannole?tab=repositories)
 
